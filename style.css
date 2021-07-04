@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.name-color{
+    color: orange;
+}
+h1{
+    font-size: 60px;
+}
+.hire-me{
+    text-decoration: none;
+    color: white;
+    border: 2px solid orange;
+    border-radius: 10px;
+    background: linear-gradient(lightsalmon,tomato);
+    padding: 10px 40px;
+}
+.first-section{
+    width: 50%;
+    padding-left: 80px;
+}
+.first-section img{
+    width: 80%;
+}
+.section-wrap{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 300px;
+    display: flex;
+
+}
+.second-section-wrap{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    display: flex;
+
+}
